@@ -69,7 +69,7 @@ A revolutionary blockchain-based marketplace connecting farmers directly with co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/farmchain-marketplace.git
+   git clone https://github.com/Harshad-Gore/farmchain-marketplace.git
    cd farmchain-marketplace
    ```
 
