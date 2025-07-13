@@ -301,13 +301,10 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Developer**: Harshad
-- **Email**: your-email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **Discord**: ``` bash
+-                  raybyte```
+- **GitHub**: [@Harshad-Gore](https://github.com/Harshad-Gore)
 
 ---
 
 **Built with ❤️ for sustainable agriculture and blockchain technology**
-
-*"Connecting farmers and consumers for a better, more transparent food system"*
