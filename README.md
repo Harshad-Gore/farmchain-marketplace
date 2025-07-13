@@ -301,8 +301,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Discord**: ``` bash
--                  raybyte```
+- **Discord**: ```raybyte```
 - **GitHub**: [@Harshad-Gore](https://github.com/Harshad-Gore)
 
 ---
